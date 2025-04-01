@@ -1,5 +1,5 @@
 # PRODIGY_DS_02
-# README: Titanic Data Exploration and Insights 🚢📊
+# Titanic Data Exploration and Insights 🚢📊
 
 ## Overview
 This visualization provides an interactive analysis of Titanic passenger data, exploring survival rates based on different factors such as embarkation point, passenger class, and family size.
